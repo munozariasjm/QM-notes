@@ -6,15 +6,15 @@ This repository contains notes for QM courses. The main idea is to cover basics 
 
 The notes are divided into three parts:
 
-1.  Basic QM
-    TODO: add contents
+1.  **Basic QM**
+    1. TODO: add contents
 
-2.  Applied QM
+2.  **Applied QM**
     1.  [Scattering Theory](./notes/02_Applied_QM/01_scattering/00_th_scattering.ipynb)
     2.  [Perturbation theory](./notes/02_Applied_QM/02_perturbation/00_th_pert_theory.ipynb)
-    3.  [Hydrogen atom](./notes/02_Applied_QM/03_Hydrogen%20Structure/01_hypertfine_structure.ipynb)
+    3.  [Hydrogen atom](./notes/02_Applied_QM/03_Hydrogen%20Structure¨)
 
-3.  Quantum Systems and Information
+3.  **Quantum Systems and Information**
     1. [Preliminaries](./notes/03_Quantum_Systems/00_preliminary/intro.ipynb)
     2. State Spaces
         1. [Density operators](./notes/03_Quantum_Systems/01_State_Space/00_density_operartors.ipynb)
