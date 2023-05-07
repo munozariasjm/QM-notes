@@ -16,14 +16,14 @@ The notes are divided into three parts:
 
 3.  **Quantum Systems and Information**
     1. [Preliminaries](./notes/03_Quantum_Systems/00_preliminary/intro.ipynb)
-    2. State Spaces and Correlations
+    2. [State Spaces and Correlations](/home/jose/Documents/STUDY/Bsc/QM/notes/03_Quantum_Systems/01_State_Space)
         1. [Density operators](./notes/03_Quantum_Systems/01_State_Space/00_density_operartors.ipynb)
         2. [Bloch Sphere](./notes/03_Quantum_Systems/01_State_Space/01_bloch_sphere.ipynb)
         3. [Composite Systems](./notes/03_Quantum_Systems/01_State_Space/02_composite_systems.ipynb)
         4. [Entanglement](./notes/03_Quantum_Systems/01_State_Space/04_entanglement.ipynb)
         5. [Spectral decomposition](./notes/03_Quantum_Systems/01_State_Space/04_spectral_decomposition.ipynb)
         6. [Bell's Inequality](./notes/03_Quantum_Systems/01_State_Space/05_bell_inequalities.ipynb)
-        7.
+        7. [Quantum Decoherence](./notes/03_Quantum_Systems/01_State_Space/06_decoherence.ipynb)
 
 ## How to use
 
