@@ -24,6 +24,13 @@ The notes are divided into three parts:
         5. [Spectral decomposition](./notes/03_Quantum_Systems/01_State_Space/04_spectral_decomposition.ipynb)
         6. [Bell's Inequality](./notes/03_Quantum_Systems/01_State_Space/05_bell_inequalities.ipynb)
         7. [Quantum Decoherence](./notes/03_Quantum_Systems/01_State_Space/06_decoherence.ipynb)
+4. [Quantum Optics](./notes/04_Optics/README.md)
+   1. [Introduction](./notes/04_Optics/01_intro/theory.ipynb)
+   2. [Field quantization](./notes/04_Optics/02_field_quantization/theory.ipynb)
+   3. [Coherent states](./notes/04_Optics/03_coherent_states/theory.ipynb)
+   4. [Atom-field interaction](./notes/04_Optics/04_atoms_light/theory.ipynb)
+   5. [Coherence](./notes/04_Optics/05_quantum_coherence/theory.ipynb)
+   6. [Beam splitters](./notes/04_Optics/06_beam_splitters/theory.ipynb)
 
 ## How to use
 
