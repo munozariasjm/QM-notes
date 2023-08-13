@@ -7,7 +7,13 @@ This repository contains notes for QM courses. The main idea is to cover basics 
 The notes are divided into three parts:
 
 1.  **Basic QM**
-    1. TODO: add contents
+    1. [Preliminaries](./notes/01_Basics/01_Formalism/theory.ipynb)
+    2. Particles in Potentials
+       1. [Square well](./notes/01_Basics/02_particles_in_potentials/01_square_well.ipynb)
+       2. [Harmonic oscillator](./notes/01_Basics/02_particles_in_potentials/02_quantum_harmonic_oscillator.ipynb)
+       3. [Angular momentum](./notes/01_Basics/02_particles_in_potentials/03_angular_momentum.ipynb)
+       4. [Central Potential](./notes/01_Basics/02_particles_in_potentials/04_central_potential.ipynb)
+       5. [Classical Hydrogen](./notes/01_Basics/02_particles_in_potentials/05_classical_hydrogen.ipynb)
 
 2.  **Applied QM**
     1.  [Scattering Theory](./notes/02_Applied_QM/01_scattering/00_th_scattering.ipynb)
